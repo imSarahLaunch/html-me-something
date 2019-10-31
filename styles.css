@@ -1,0 +1,52 @@
+header {
+    border-bottom-style: solid;
+    border-color: crimson;
+    border-width: 5px;
+}
+
+h1 {
+    border-bottom-style: solid;
+    border-color: crimson;
+    border-width: 5px;
+    padding: 50px 550px 25px;
+    font-family: "Times New Roman";
+    font-size: 4.5em;
+    color: white;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+h3 {
+    padding: 25px 550px;
+    color: white;
+    text-align: center;
+    background-color: crimson;
+}
+
+h2 {
+    font-family: "Times New Roman";
+    color: darkgoldenrod;
+    text-align: center;
+    margin-top: 75px;
+}
+
+.description {
+    padding: 25px 300px;
+}
+
+#copyright {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: lightblue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 8px;
+}
